@@ -83,7 +83,6 @@ main{
 
 
 /* cards */
-
 .cards{
   grid-column: 1 / 7;
   grid-row: 5 / 6;
@@ -101,12 +100,20 @@ main{
   height: 400px;
 }
 
+.cards .cards-wrapper .card .btn{
+ transition: all 0.2s ease-in;
+ -webkit-transition: all 0.2s ease-in;
+ -moz-transition: all 0.2s ease-in;
+ -ms-transition: all 0.2s ease-in;
+ -o-transition: all 0.2s ease-in;
+}
+
 .cards .cards-wrapper .card .btn:hover{
-  transform: scale(1.2);
-  -webkit-transform: scale(1.2);
-  -moz-transform: scale(1.2);
-  -ms-transform: scale(1.2);
-  -o-transform: scale(1.2);
+  transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  -o-transform: scale(1.1);
 }
 
 .cards .cards-wrapper .card p{
