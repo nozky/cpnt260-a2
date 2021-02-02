@@ -1,7 +1,7 @@
 @media only screen and ( min-width: 768px){
 
 *{
-  font-size: clamp(12px, 2vw, 18px);
+  font-size: clamp(12px, 3vw, 16px);
 }
 
 .navbar-main .menu {
@@ -94,10 +94,18 @@ main{
   flex-wrap: wrap;
 }
 
+
+/* Image with no padding, I designed it to be exaclty like that. */
 .cards .cards-wrapper .card{
-  padding: 0.3rem;
   max-width: 300px;
   height: 400px;
+  border: 1px solid rgb(194, 194, 199);
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  overflow: hidden;
 }
 
 .cards .cards-wrapper .card .btn{
@@ -116,8 +124,13 @@ main{
   -o-transform: scale(1.1);
 }
 
-.cards .cards-wrapper .card p{
+.cards .cards-wrapper .card p {
   min-height: 8ch;
+  padding: 0 1rem;
+}
+
+.cards .cards-wrapper .card h3{
+  padding: 0 1rem;
 }
 
 .cards .cards-wrapper .card img{
@@ -125,9 +138,6 @@ main{
   min-height: 50%;
   object-fit: cover;
 }
-
-
-
 
 
 
