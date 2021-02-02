@@ -36,9 +36,10 @@ _**Attribution.**_
 ---
 ### Links
 **GH repo**
-github repo[]()
+github repo[https://github.com/nozky/cpnt260-a2](https://github.com/nozky/cpnt260-a2)
+
 **GH Pages site**
-Github page site[]()
+Github page site[ https://nozky.github.io/cpnt260-a2/]( https://nozky.github.io/cpnt260-a2/)
 
 
 
