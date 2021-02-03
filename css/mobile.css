@@ -249,16 +249,11 @@ header .img-wrapper .header-text h1{
   -o-border-radius: 5px;
 }
 
-.cards .cards-wrapper .card p, h3{
-  padding: 0 1rem;
-}
 
 .cards .cards-wrapper .card div .btn a{
   text-decoration: none;
   color: var(--btn-font-color);
 }
-
-
 
 
 
