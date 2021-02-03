@@ -59,7 +59,7 @@ _**Attribution.**_
 
 
 ---
-### Links
+## Links
 **GH repo**
 github repo[https://github.com/nozky/cpnt260-a2](https://github.com/nozky/cpnt260-a2)
 
