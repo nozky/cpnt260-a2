@@ -1,6 +1,6 @@
 
 
-#Cpnt260-a2: Card content block
+# Cpnt260-a2: Card content block
 
 _NOTE_
 version 0.8
@@ -12,21 +12,21 @@ This assignment is meant for just a card content block at first but for some rea
   - and other visual effects, just to learn something new.
 
 ---
-**_Website Goal_**
+## Website Goal ##
 This website is meant for the local government of Boracay Island to help them promote Boracay as one of the best tourist destination.
 
 ---
-**Issue**
+***Issue***
 If using logo with .svg extension, there is an issue with chrome and edge not showing the logo. 
 
-**_fix:_**
+***_fix:_***
 
 >xlink:href="data:image/png;base64,
 open the file in notepad and change  "img/png" to "image/png".
 
 
 ---
-_**Attribution.**_
+## Attribution. ##
   - Department of environment and vatural resources philippines.
   - Photo credit to: https://www.denr.gov.ph
   - Photo credit to: Henann Garden Resort [https://www.henann.com/boracay/henanngarden/](https://www.henann.com/boracay/henanngarden/)
@@ -69,5 +69,6 @@ Github page site[ https://nozky.github.io/cpnt260-a2/]( https://nozky.github.io/
 
 
 ---
-*AUTHOR*
+
+### AUTHOR ###
 Norvillie Villaruel
